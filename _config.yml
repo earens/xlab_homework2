@@ -145,7 +145,7 @@ print(tooth_growth_tibble)
 ##  8  11.2 VC      0.5
 ##  9   5.2 VC      0.5
 ## 10   7   VC      0.5
-## # ... with 50 more rows
+## # ... with 50 more rows 
 Which data type is the variable “supp”?
 
 ANSWER:
