@@ -95,11 +95,12 @@ a.
 
 Convert the `ToothGrowth` data frame into a tibble using `as_tibble()`. Put
 this in a new variable called `iris_tibble`. Then print the tibble
-using the `print()` function.
+using the `print()` function. 
+
 
 ```{r tidy = FALSE, message = FALSE, warning = FALSE, error = FALSE}
 
-# YOUR CODE HERE
+# YOUR CODE HERE (we did not use the variable name iris_tibble, because in task 2d it is called tooth_gowth_tibble)
 tooth_growth_tibble <- as_tibble(ToothGrowth)
 print(tooth_growth_tibble)
 
